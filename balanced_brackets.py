@@ -5,7 +5,7 @@
 # The function is expected to return a STRING.
 # The function accepts STRING brackets as parameter.
 def isBalanced(brackets):
-    # Write your code here
+    # Your code here
 
 
 if __name__ == '__main__':
